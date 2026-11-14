@@ -1,0 +1,11 @@
+{
+    "train_start": "2013-01-01",
+    "train_end": "2017-07-04",
+    "train_days": 1646,
+    "val_start": "2017-07-05",
+    "val_end": "2017-10-02",
+    "val_days": 90,
+    "test_start": "2017-10-03",
+    "test_end": "2017-12-31",
+    "test_days": 90
+}

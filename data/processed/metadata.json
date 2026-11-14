@@ -1,0 +1,22 @@
+{
+    "total_records": 913000,
+    "missing_values": 0,
+    "duplicate_records": 0,
+    "duplicate_series_keys": 0,
+    "unique_dates": 1826,
+    "expected_dates": 1826,
+    "min_date": "2013-01-01",
+    "max_date": "2017-12-31",
+    "unique_stores": 10,
+    "unique_items": 50,
+    "total_store_item_combinations": 500,
+    "min_obs_per_combo": 1826,
+    "max_obs_per_combo": 1826,
+    "is_continuous": true,
+    "zero_sales_count": 1,
+    "negative_sales_count": 0,
+    "min_sales": 0.0,
+    "max_sales": 231.0,
+    "mean_sales": 52.250286966046005,
+    "median_sales": 47.0
+}
